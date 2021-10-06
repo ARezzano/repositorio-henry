@@ -1,0 +1,35 @@
+h1 {
+    color: #6e8d70;
+    background-color: #b2d6b4;
+}
+h3{
+    color: #6e8d70;
+    background-color: #b2d6b4;
+}
+h4{
+    text-decoration-line: underline;
+    color: #6e8d70;
+}
+.divClass{
+    font-family: 'Arial';
+    text-align: center;
+    margin: 0 auto;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    color: #253124;
+    font-family: 'Arial';
+    height: 600px;
+    width: 500px;
+    background-color: #80b67c;
+    padding: 50px;
+    margin: 0 auto;
+    border-style: double;
+    border-width: 6px;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}
